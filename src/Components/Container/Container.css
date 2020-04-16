@@ -1,6 +1,7 @@
 .Container {
   /* background: #6B6666; */
   background: url(lair.png);
+  background-size: cover;
   height: 92vh;
   display: flex;
   justify-content: space-around;
